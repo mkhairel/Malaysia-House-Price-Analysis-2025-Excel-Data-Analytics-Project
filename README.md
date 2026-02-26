@@ -10,6 +10,9 @@ Business Questions?
 
 Kwmahirann digunakan dalam analisis:
 1. Data Cleaning
-2. Exploratory Data Analysis
-3. Advanced Analysis
-4. Dashboad
+2. Exploratory Data Analysis (EDA)
+3. Pivot Table
+4. Regression Analysis
+5. Dashboad Design
+6. Business Insight
+7. Excel Modelling
