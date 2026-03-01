@@ -1,27 +1,28 @@
-Project Overview
+# Malaysia House Price  2025 Using Excel Data Analysis
+
+## Project Overview
 This project analyzes Malaysian housing data using Microsoft Excel.
 
+## Key Insights
+- Kuala Lumpur has highest average price
+- Strong positive correlation (r = 0.746)
+- Freehold properties more expensive
+- 55% of price variation explained by PSF
 
-Tools Used
-Excel
-Pivot Tables
-Correlation Analysis
-Regression ToolPak
-DasHboard Design
-Data Cleaning
+## Skills
+- Data Cleaning
+- Feature Engineering
+- Statistical Analysis
+- Dashboard Visualization
+- Business Insight
 
+##Tools Used
+- Excel
+- Pivot Tables
+- Correlation Analysis
+- Regression ToolPak
+- Dashboard Design
+- Data Cleaing
 
-Key Insights
-Kuala Lumpur has highest average price
-Strong positive correlation (r = 0.746)
-Freehold properties more expensive
-55% of price variation explained by PSF
-
-
-
-Skills Demonstrated
-Data Cleaning
-Feature Engineering
-Statistical Analysis
-Dashboard Visualization
-Business Insight
+## Author
+Muhamad Khairel
