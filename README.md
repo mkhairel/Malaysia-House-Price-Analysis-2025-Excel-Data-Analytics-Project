@@ -1,10 +1,8 @@
 Project Overview
-
 This project analyzes Malaysian housing data using Microsoft Excel.
 
 
 Tools Used
-
 Excel
 Pivot Tables
 Correlation Analysis
@@ -14,7 +12,6 @@ Data Cleaning
 
 
 Key Insights
-
 Kuala Lumpur has highest average price
 Strong positive correlation (r = 0.746)
 Freehold properties more expensive
@@ -23,7 +20,6 @@ Freehold properties more expensive
 
 
 Skills Demonstrated
-
 Data Cleaning
 Feature Engineering
 Statistical Analysis
