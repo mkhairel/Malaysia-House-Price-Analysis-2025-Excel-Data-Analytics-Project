@@ -1,14 +1,11 @@
-Malaysia House Price Analysis 2025 (Excel Project)
-
-
 Project Overview
 
-This project analyzes 2000 property listings across Malaysia using Microsoft Excel.
+This project analyzes Malaysian housing data using Microsoft Excel.
 
 
 Tools Used
 
-Microsoft Excel
+Excel
 
 Pivot Tables
 
@@ -21,25 +18,26 @@ Dashboard Design
 Data Cleaning
 
 
-Key Findings
+Key Insights
 
-Kuala Lumpur has the highest average property price (RM 853k)
+Kuala Lumpur has highest average price
 
-Strong positive correlation between price and price per sqft (r = 0.746)
+Strong positive correlation (r = 0.746)
 
-Freehold properties are priced significantly higher than leasehold
+Freehold properties more expensive
 
-Landed and bungalow-related properties dominate the premium market segment
+55% of price variation explained by PSF
+
 
 
 Skills Demonstrated
 
 Data Cleaning
 
-Exploratory Data Analysis
+Feature Engineering
 
-Business Insight Generation
+Statistical Analysis
 
-Dashboard Design
+Dashboard Visualization
 
-Statistical Analysis (Correlation)
+Business Insight
