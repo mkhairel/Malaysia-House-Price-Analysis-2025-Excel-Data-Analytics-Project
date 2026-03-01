@@ -1,29 +1,32 @@
-📊 Malaysia House Price Analysis 2025 (Excel Project)
+Malaysia House Price Analysis 2025 (Excel Project)
 
-🔍 Project Overview:
 
-This project analyzes Malaysia housing market data using Microsoft Excel.
+Project Overview
 
-🛠 Tools Used
+This project analyzes 2000 property listings across Malaysia using Microsoft Excel.
+
+
+Tools Used
 
 Microsoft Excel
 Pivot Tables
-Regression Analysis (ToolPak)
-Data Cleaning
+Correlation Analysis
+Regression ToolPak
 Dashboard Design
+Data Cleaning
 
-📈 Key Insights
 
-1. Selangor shows the highest average house prices
-2. Strong positive correlation between square footage and price
-3. Landed properties are significantly more expensive than high-rise units
+Key Findings
 
-📊 Dashboard Preview
+Kuala Lumpur has the highest average property price (RM 853k)
+Strong positive correlation between price and price per sqft (r = 0.746)
+Freehold properties are priced significantly higher than leasehold
+Landed and bungalow-related properties dominate the premium market segment
 
-(Screenshot Dashboard Available)
+Skills Demonstrated
 
-📂 Files Included
-
-Excel Analysis File
-Dashboard Screenshot
-Regression Output
+Data Cleaning
+Exploratory Data Analysis
+Business Insight Generation
+Dashboard Design
+Statistical Analysis (Correlation)
